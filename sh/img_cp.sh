@@ -1,5 +1,4 @@
 #!/bin/bash
-sh
 MY_BASENAME=$(basename "$0")
 MY_ABS_PATH=$(cd $(dirname "$0"); pwd)/$MY_BASENAME
 
